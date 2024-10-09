@@ -1,0 +1,11 @@
+Model Information:
+* title:	rickenbacker 4003
+* source:	https://sketchfab.com/3d-models/rickenbacker-4003-dd25a3c9efa84313a0522aff3154dfed
+* author:	LinFBX (https://sketchfab.com/andfoeva)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "rickenbacker 4003" (https://sketchfab.com/3d-models/rickenbacker-4003-dd25a3c9efa84313a0522aff3154dfed) by LinFBX (https://sketchfab.com/andfoeva) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
